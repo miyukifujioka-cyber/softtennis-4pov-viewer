@@ -1,0 +1,5 @@
+# 公開リポに含めない手元用ファイル
+# - softtennis-4pov.html: 暗号化前のオリジナル（公開すると StatiCrypt 保護が無意味になる）
+# - OPERATIONS.md: パスワードを含む運用メモ
+softtennis-4pov.html
+OPERATIONS.md
